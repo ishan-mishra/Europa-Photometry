@@ -10,4 +10,4 @@ conda activate europa-tutorial
 ```
 
 
-Entire collection of raw and ISIS-processed Galileo/SSI images can be found here: \<link coming soon\>
+The entire collection of raw and ISIS-processed Galileo/SSI images used in our paper (DOI coming soon) is in the 'Image Files' folder. 
